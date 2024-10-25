@@ -1,6 +1,4 @@
-[]: # Title: Demo Application Symfony 6 + PHP 8.1 + PostgreSQL + Docker
 # Demo Application with Symfony 7 + PHP 8.3 + PostgreSQL 16 + Docker
-# Demo Application Symfony 6 + PHP 8.1 + PostgreSQL + Docker
 
 ## Prérequis
 - Linux (Ubuntu 22.04 LTS ou autre)
